@@ -1484,3 +1484,11 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-05 17:11:52.956
 !MESSAGE Classpath changed for project: TestApplication
+
+!ENTRY org.eclipse.core.resources 2 2 2024-06-05 18:24:51.007
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2024-06-05 18:24:51.007
+!MESSAGE The project description file (.project) for '.org.eclipse.egit.core.cmp' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-06-05 19:47:49.433
+!MESSAGE Classpath changed for project: TestApplication
